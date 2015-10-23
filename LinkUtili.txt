@@ -1,2 +1,6 @@
 Servizio Cloud per Hosting server Node.js ed altro:
 https://www.heroku.com/
+
+Video in italiano che spiega i power tools di javascrip:
+http://video.html.it/javascript-power-tools/
+
