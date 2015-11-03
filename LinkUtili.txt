@@ -4,3 +4,9 @@ https://www.heroku.com/
 Video in italiano che spiega i power tools di javascrip:
 http://video.html.it/javascript-power-tools/
 
+Per avviare il server nodejs come servizio Linux seuire questa guida:
+http://websetnet.com/it/how-to-install-hackpad-on-a-centos-7-vps/
+
+Comandi server: start nodejs_catering.service
+                stop nodejs_catering.service
+
