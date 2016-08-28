@@ -12,12 +12,12 @@ Per la documentazione ufficiale visitare il sito http://docs.docker.com
 ### Versione
 
 > Versione di docker
-> docker --version
+> <PRE><CODE>docker --version</CODE></PRE> 
 
 > Versione di docker-composer
-> docker-compose --version
+> <PRE><CODE>docker-compose --version</CODE></PRE>  
 
 > Versione di docker-machie	
-> docker-machine --version
+> <PRE><CODE>docker-machine --version</CODE></PRE>
 
 	
