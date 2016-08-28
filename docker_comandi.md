@@ -11,13 +11,13 @@ Per la documentazione ufficiale visitare il sito http://docs.docker.com
 
 ### Versione
 
-Versione di docker
+> Versione di docker
 > docker --version
 
-Versione di docker-composer
+> Versione di docker-composer
 > docker-compose --version
 
-Versione di docker-machie	
+> Versione di docker-machie	
 > docker-machine --version
 
 	
