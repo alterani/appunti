@@ -77,11 +77,11 @@ Per la documentazione ufficiale visitare il sito http://docs.docker.com
 creare un repository sul nel proprio account.
 > Dopo aver creato il repository bisogna taggare l'immagina appena creata.
 > Per poter taggare è necessaio conoscere l'id dell'immagina che è possibile trovare attraverso il comando docker images.
-> <PRE><CODE>ddocker tag 13d0f7f1b8f6 alterani/docker-whale:latest</CODE></PRE
+> <PRE><CODE>ddocker tag 13d0f7f1b8f6 alterani/docker-whale:latest</CODE></PRE>
 > Effettuare il login:
-> <PRE><CODE>docker login --username=yourhubusername --email=youremail@company.com --password=yourpassword</CODE></PRE
+> <PRE><CODE>docker login --username=yourhubusername --email=youremail@company.com --password=yourpassword</CODE></PRE>
 > Effettuare il push usando il nome dell'immagine creata:
-> <PRE><CODE>docker push alterani/docker-whale</CODE></PRE
+> <PRE><CODE>docker push alterani/docker-whale</CODE></PRE>
 
 
 
