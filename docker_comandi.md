@@ -84,5 +84,13 @@ creare un repository sul nel proprio account.
 > <PRE><CODE>docker push alterani/docker-whale</CODE></PRE>
 
 
+### RIMUOVERE UN' IMMAGINE IN LOCALE
+
+> Per poter rimuovere un immagina usare il comando sotto, è possibile usare sia il nome che l'id.
+> <PRE><CODE>docker rmi -f 7d9495d03763</CODE></PRE>
+> <PRE><CODE>docker rmi -f docker-whale</CODE></PRE>
+
+
+
 
 	
