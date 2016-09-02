@@ -2,6 +2,16 @@
 
 Maggiori dettagli a: http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf
 
+http://people.unica.it/giorgiogiacinto/didattica/insegnamenti/materiale-didattico/sicurezza-informatica/lezioni-di-sicurezza-informatica/
+
+http://www.dia.uniroma3.it/~pizzonia/ssir/study/035_vulnerabiliySoftware_bufferOverflow.pdf
+
+http://www.dis.uniroma1.it/~salza/FI-C/demo-buffer-overflow.pdf
+
+https://www.exploit-db.com/docs/15272.pdf
+
+
+
 ### ELF
 •  Executable and Linkable Format
 •  Eseguibile nei sistemi Linux (a 32 e a 64 bit)
