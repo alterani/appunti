@@ -25,3 +25,8 @@ NPM PM2
 Si tratta di un tool che permette di eseguire applicazioni node come servizi.
 Offre anche funzionalità di monitoring.
 Vedi link https://hackerstribe.com/2016/node-js-gestione-dei-processi-con-pm2/
+
+
+CREARE UN SERVIZIO LINUX
+Istruzioni per creare un servizio
+http://guide.debianizzati.org/index.php/Gestione_e_creazione_di_servizi_in_Debian
