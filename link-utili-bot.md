@@ -20,8 +20,7 @@
 - [Milano Chatbots Meetup](http://www.meetup.com/it-IT/Milano-Chatbots-Meetup/)
 - [convcomp2016.it](https://medium.com/convcomp2016)
 
-## Se sei uno smanettone come me
-### Librerie e Framework
+## Per gli smanettoni come me - Librerie e Framework
 - [ABOT- Crea un assistente digitale come Siri, Cortana, Google Now...](https://github.com/itsabot/abot) 
 - [Botkit opensource](https://howdy.ai/botkit/)
 - [Rob Ellis - superscriptjs and more](https://github.com/silentrob)  
@@ -43,7 +42,7 @@
 
 
 ## Directory BOT
-- <b>+Utile</b>[Ruby Natural Language Processing Risorse](https://github.com/diasks2/ruby-nlp) 
+- <b>+Utile </b>[Ruby Natural Language Processing Risorse](https://github.com/diasks2/ruby-nlp) 
 
 
 ## Software House - Aziende produttrici 
@@ -51,8 +50,8 @@
 - [BotSociety](https://botsociety.io/) 
 
 ## Gente che parla di BOTS
-[Paolo Montrasio](https://twitter.com/pmontrasio) 
-[Giorgio Robino](https://twitter.com/solyarisoftware)
+- [Paolo Montrasio](https://twitter.com/pmontrasio) 
+- [Giorgio Robino](https://twitter.com/solyarisoftware)
 
 
 
