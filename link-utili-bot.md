@@ -2,7 +2,7 @@
 
 
 ## BIG & BOT
-- (https://cloud.google.com/products/machine-learning/)  [GOOGLE]
+- [GOOGLE](https://cloud.google.com/products/machine-learning/)  
 - (https://aws.amazon.com/it/machine-learning/) [AMAZON]
 - https://azure.microsoft.com/it-it/services/machine-learning/ [MICROSOFT]
 
