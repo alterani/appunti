@@ -32,9 +32,8 @@ Istruzioni per creare un servizio
 http://guide.debianizzati.org/index.php/Gestione_e_creazione_di_servizi_in_Debian
 
 
-SEZIONE BOT
-https://rundexter.com
-https://howdy.ai/botkit/
-https://botsociety.io/  
-http://www.botcompany.it/
-https://api.ai/
+
+
+
+
+
