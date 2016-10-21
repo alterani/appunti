@@ -11,3 +11,10 @@
 - http://www.meetup.com/it-IT/Milano-Chatbots-Meetup/
 - https://medium.com/convcomp2016
 
+Api:
+- https://www.facebook.com/BotDevelopers/
+
+Guide:
+- http://www.salvatorecordiano.it/creare-un-bot-facebook-guida-passo-passo/
+- http://www.salvatorecordiano.it/creare-un-bot-telegram-guida-passo-passo/
+
