@@ -18,13 +18,14 @@
 ## Social - Community Italiane
 
 - [Milano Chatbots Meetup](http://www.meetup.com/it-IT/Milano-Chatbots-Meetup/)
-- [convcomp2016.it](https://medium.com/convcomp2016)
+- [convcomp2016.it](https://medium.com/convcomp2016) - Italian chatbots-community blog (#botdev)
 
 
 ## Per gli smanettoni come me - Librerie e Framework
-- [ABOT - Crea un assistente digitale come Siri, Cortana, Google Now...](https://github.com/itsabot/abot) 
-- [Botkit opensource](https://howdy.ai/botkit/)
-- [Rob Ellis - superscriptjs and more](https://github.com/silentrob)  
+- [Abot - Crea un assistente digitale come Siri, Cortana, Google Now...](https://github.com/itsabot/abot) - golang 
+- [Botkit opensource](https://howdy.ai/botkit/) - nodejs
+- [open-intent](https://github.com/open-intent-io/open-intent) - user intent based chatbot framework - nodejs
+- [Rob Ellis - superscriptjs and more](https://github.com/silentrob) - nodejs  
 
 
 ## API
@@ -37,7 +38,7 @@
 
 ## Linguaggi specifici per BOT
 - [ChatScript](https://github.com/bwilcox-1234/ChatScript)
-- [RiverScipt](https://www.rivescript.com/)
+- [RiverScipt](https://www.rivescript.com/) - nodejs 
 - [SuperScript](http://superscriptjs.com/)  
 - [PandoraBots](https://playground.pandorabots.com/it/)
 
