@@ -13,6 +13,7 @@
 - [Wit.ai - Facebook company](https://wit.ai/) 
 - [Recast.ai](https://recast.ai/) 
 - [PullString](https://www.pullstring.com/#panel-platforms)
+— [Spacy.io - NLP as a service](https://spacy.io/), [tutorial](https://explosion.ai/blog/chatbot-node-js-spacy) 
 
 
 ## Social - Community Italiane
@@ -33,7 +34,7 @@
 - API Telegram: [introduzione](https://core.telegram.org/bots) e [reference](https://core.telegram.org/bots/api)
 - [API Skype](https://developer.microsoft.com/en-us/skype/bots)
 - [API Slack](https://api.slack.com/bot-users)
-- [API Spark)[https://developer.ciscospark.com/bots.html]
+- [API Spark](https://developer.ciscospark.com/bots.html]
 
 
 ## Linguaggi specifici per BOT
