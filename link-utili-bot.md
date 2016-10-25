@@ -1,19 +1,19 @@
 # ELENCO DI SITI E RISORSE UTILI PER LO SVILUPPO DI BOT
 
 
-## BIG & BOT
+## Big & Bot
 - [Google](https://cloud.google.com/products/machine-learning/)  
 - [Amazon](https://aws.amazon.com/it/machine-learning/)
 - [Microsoft](https://azure.microsoft.com/it-it/services/machine-learning/)
 
 
-## BOT as service e piattaforme
+## Bot as service e piattaforme
 - [Api.ai - Google company](https://api.ai/)  
 - [Dexter - Piattaforma per costruire BOT con dei blocchi plug-and-play](https://rundexter.com)
 - [Wit.ai - Facebook company](https://wit.ai/) 
 - [Recast.ai](https://recast.ai/) 
 - [PullString](https://www.pullstring.com/#panel-platforms)
-— [Spacy.io - NLP as a service](https://spacy.io/), [tutorial](https://explosion.ai/blog/chatbot-node-js-spacy) 
+- [Spacy.io - NLP as a service](https://spacy.io/), [tutorial](https://explosion.ai/blog/chatbot-node-js-spacy) 
 
 
 ## Social - Community Italiane
@@ -34,10 +34,10 @@
 - API Telegram: [introduzione](https://core.telegram.org/bots) e [reference](https://core.telegram.org/bots/api)
 - [API Skype](https://developer.microsoft.com/en-us/skype/bots)
 - [API Slack](https://api.slack.com/bot-users)
-- [API Spark](https://developer.ciscospark.com/bots.html]
+- [API Spark](https://developer.ciscospark.com/bots.html)
 
 
-## Linguaggi specifici per BOT
+## Linguaggi specifici per bot
 - [ChatScript](https://github.com/bwilcox-1234/ChatScript)
 - [RiverScipt](https://www.rivescript.com/) - nodejs 
 - [SuperScript](http://superscriptjs.com/)  
@@ -50,7 +50,7 @@
 - [Come costruire un bot con ChatScript](https://medium.freecodecamp.com/chatscript-for-beginners-chatbots-developers-c58bb591da8#.qshjftyo) 
 
 
-## Directory BOT
+## Directory bot
 - <b>+Utile</b>[Ruby Natural Language Processing Risorse](https://github.com/diasks2/ruby-nlp) 
 
 
@@ -59,6 +59,6 @@
 - [BotSociety](https://botsociety.io/) 
 
 
-## Gente che parla di BOT
+## Gente che parla di bot
 - [Paolo Montrasio](https://twitter.com/pmontrasio) 
 - [Giorgio Robino](https://twitter.com/solyarisoftware)
