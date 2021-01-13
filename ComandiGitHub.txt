@@ -4,3 +4,34 @@ A questo link è possibile trovare una mini guida veloce ed essenziale che spieg
 github.
 
 http://rogerdudler.github.io/git-guide/index.it.html
+
+se non funziona provare via ssh
+
+
+per clonare un repository
+
+
+***** CLONARE **********
+clone the repo:
+
+git clone git://github.com/USERNAME/your-repository
+
+esempio 
+
+git clone git://github.com/alterani/appunti
+
+
+******* PUSH *********
+posizionarsi nella cartella del progetto 
+
+git remote set-url origin git@github.com:username/your-repository.git
+
+// il comando sopra va fatto solo una volta
+
+
+git add -A
+git commit -am "my update msg"
+git push
+
+
+
